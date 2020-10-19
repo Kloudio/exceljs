@@ -1,16 +1,16 @@
 {
   "name": "exceljs",
-  "version": "4.1.1",
+  "version": "1.0.0",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
-  "private": false,
-  "license": "MIT",
+  "private": true,
+  "license": "UNLICENSED",
   "author": {
-    "name": "Guyon Roche",
-    "email": "guyon@live.com"
+    "name": "Kloudio",
+    "email": "developer@kloud.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exceljs/exceljs.git"
+    "url": "https://github.com/Kloudio/exceljs.git"
   },
   "engines": {
     "node": ">=8.3.0"
