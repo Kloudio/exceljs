@@ -1,8 +1,7 @@
 {
-  "name": "exceljs",
+  "name": "@kloudioinc/exceljs",
   "version": "1.0.1",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
-  "private": true,
   "license": "UNLICENSED",
   "author": {
     "name": "Kloudio",
